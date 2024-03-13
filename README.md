@@ -56,8 +56,9 @@ This project is licensed under the MIT License. For more information, please see
 
 ## How to Run
 
-1. Install PySpark
-2. Run Jupyter Notebook.
-3. Open the pyspark_for_beginners.ipynb file.
-4. Execute the notebook cells sequentially to observe PySpark operations.
+1. Clone the repository using the following link: [https://github.com/EmrullahCelk/PySpark.git](https://github.com/EmrullahCelk/PySpark.git)
+2. Install PySpark: [PySpark Installation Guide](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)
+3. Run Jupyter Notebook.
+4. Open the `pyspark_for_beginners.ipynb` file.
+5. Execute the notebook cells sequentially to observe PySpark operations.
 
