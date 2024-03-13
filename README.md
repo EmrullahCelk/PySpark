@@ -22,6 +22,7 @@ This project aims to perform data cleaning and processing tasks on a dataset usi
 ## Data Manipulation
 
 - `regexp_extract`: Extracts text based on a given regular expression.
+- `regexp_replace()`: Replaces text using regular expressions.
 
 ## Filtering and Selecting
 
