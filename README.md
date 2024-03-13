@@ -1,4 +1,4 @@
-# Data Cleaning and Processing with PySpark
+# PySark for Beginers
 
 This project aims to perform data cleaning and processing tasks on a dataset using PySpark. Below is a summary of frequently used functions when working with PySpark DataFrames. These functions are used to perform various data processing tasks such as data reading, description, handling missing values, manipulation, filtering, querying, adding new columns, and selecting/merging columns.
 
